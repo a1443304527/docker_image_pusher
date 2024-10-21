@@ -1,2 +1,3 @@
 nginx:latest
 datalust/seq:latest
+loicsharma/baget
