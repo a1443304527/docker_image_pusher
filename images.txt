@@ -1,1 +1,1 @@
-jboss/keycloak:latest
+quay.io/keycloak:latest
