@@ -1,1 +1,1 @@
-corentinth/it-tools:latest
+hsiangleev/sun-panel:latest
