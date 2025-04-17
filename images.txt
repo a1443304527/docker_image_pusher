@@ -1,1 +1,1 @@
-hslr/sun-panel:latest
+elsaworkflows/elsa-dashboard:latest
