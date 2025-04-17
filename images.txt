@@ -1,1 +1,1 @@
-elsaworkflows/elsa-dashboard:latest
+elsaworkflows/elsa-server-and-studio-v3:latest
