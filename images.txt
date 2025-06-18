@@ -1,1 +1,3 @@
-elsaworkflows/elsa-server-and-studio-v3:latest
+clickhouse/clickhouse-server:23.8-alpine
+signoz/frontend:0.88.1
+signoz/signoz-otel-collector:0.88.1
