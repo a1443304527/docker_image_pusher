@@ -1,1 +1,1 @@
-signoz/signoz-otel-collector:v0.111.43
+signoz/frontend:0.76.0-a13d1c89
