@@ -1,1 +1,1 @@
-signoz/frontend:0.88.1
+clickhouse/clickhouse-server:25.4-alpine
