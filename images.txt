@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:25.4-alpine
+signoz/signoz-otel-collector:v0.111.43
