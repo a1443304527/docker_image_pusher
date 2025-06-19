@@ -1,1 +1,1 @@
-signoz/signoz-otel-collector:0.88.1
+signoz/frontend:0.88.1
