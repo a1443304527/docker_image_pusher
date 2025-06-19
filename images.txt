@@ -1,1 +1,2 @@
-signoz/frontend:0.76.0-a13d1c89
+grafana/loki:latest
+grafana/grafana:latest
