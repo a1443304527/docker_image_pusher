@@ -1,2 +1,1 @@
-grafana/loki:latest
-grafana/grafana:latest
+area39/pikachu:latest
