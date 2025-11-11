@@ -1,1 +1,1 @@
-openresty:latest
+openresty/openresty:latest
