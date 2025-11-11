@@ -1,1 +1,1 @@
-openresty/openresty:latest
+emqx/emqx:latest
