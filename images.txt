@@ -1,1 +1,1 @@
-star7th/showdoc:latest
+star7th/showdoc:v3.6.1
