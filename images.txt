@@ -1,1 +1,1 @@
-apache/rocketmq:5.3.2
+eclipse-temurin:17-jdk-alpine-3.23
