@@ -1,4 +1,1 @@
-getlago/postgres-partman:15.0-alpine
-redis:7-alpine
-getlago/api:v1.45.1
-getlago/front:v1.45.1
+lago-gotenberg:7.8.2
