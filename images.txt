@@ -1,1 +1,4 @@
-eclipse-temurin:17-jdk-alpine-3.23
+getlago/postgres-partman:15.0-alpine
+redis:7-alpine
+getlago/api:v1.45.1
+getlago/front:v1.45.1
