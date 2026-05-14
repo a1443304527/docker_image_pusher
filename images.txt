@@ -1,1 +1,1 @@
-getlago/lago-gotenberg:7.8.2
+1panel/maxkb
