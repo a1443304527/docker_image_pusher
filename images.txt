@@ -1,1 +1,2 @@
-1panel/maxkb
+node:24-alpine
+python:3.11-slim
